@@ -1,0 +1,139 @@
+.body {
+  font-family: "Avenir Next";
+  color:lightgrey;
+}
+
+li {
+  list-style: none;
+}
+
+.kop{
+  background-color: #00008b;
+  color: #fff;
+  height: 50px;
+}
+
+
+.header {
+  background-color: lightblue;
+  color: #fff;
+  height: 100px;
+}
+
+.header-logo {
+  float: left;
+  padding: 5px;
+  width:50px;
+  height:50px;
+ 
+}
+.header-logo img{
+	width: 50px;
+	height: 50px;
+	border-radius: 10px;
+    border-style: solid;
+    border-color: darkblue;
+	border-width: 5px;
+}
+
+.logo {
+  float: right;
+  font-size: 36px;
+  padding: 10px 10px;
+  color: gold;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: darkblue;
+  border-width: 5px;
+  background-color: red;
+}
+
+.header-list li {
+ float: left;
+ padding: 40px 40px;
+ font-size: 10px;
+ padding: 10px 10px;
+ color: white;
+ border-radius: 20px;
+ border-style: solid;
+ border-color: #00008b;
+ border-width: 5px;
+ background-color: #0000FF;
+}
+
+.header-list:hover li {
+background-color: yellow;
+color: black;
+}
+
+.main {
+padding: 100px 80px;
+}
+
+.contents-item {
+float: left;
+margin-right: 40px;
+display:block;
+}
+
+.contents-item img {
+float: left;
+border-radius: 10px;
+display: block;
+}
+
+.contents-item p {
+float: left;
+text-align:center;
+border-radius:10px;
+}
+
+ .copy-container h1 {
+font-size: 140px;
+text-align:center;
+}
+
+.copy-container h2 {
+font-size: 60px;
+float: left;
+text-align:center;
+}
+.copy-container span {
+  color: #ff4a4a;
+}
+
+.footer {
+ /* Gantikan background-color ke #2f5167 */
+ background-color: #00008b                                    ;
+ height: 600px;
+
+
+ /* Gantikan color ke #fff */
+ color: #fff;
+ /* Gantikan height ke 120px */
+ height: 120px;
+ /* Gantikan padding untuk semua sisi ke 40px */
+ padding: 40px;
+}
+/* Gantikan font-size dan property float footer-logo */
+.footer-logo {
+ font-size: 40px;
+ float: left;
+ padding: 20px 40px;
+}
+.footer-center {
+padding: 50px;
+}
+
+/* Gantikan float property footer-list */
+.footer-list {
+ float: right;
+}
+/* Tambahkan CSS untuk tag <li> kedalam footer-list */
+.footer-list li {
+ padding-bottom: 200px;
+}
+Konte
+
+
+ 
